@@ -1,0 +1,10 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "title": "Noblesses",
+      "genres": "Vampire , Over Power",
+      "video": "./src/assets/001.mp4"
+    }
+  ]
+}
